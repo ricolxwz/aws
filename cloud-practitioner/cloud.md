@@ -8,9 +8,13 @@ Cloud computing is the **on-demand** delivery of computer power, database storag
 
 ### The Deployment Models of the Cloud
 
-1. Private Cloud: cloud services used by a single organization, not exposed to the public; complete control; security for sensitive applications; meet specific business needs.
-2. Public Cloud: cloud resources owned and operated by a third-party cloud service provider delivered over the internet; six advantages of cloud computing: reduce trade capital expense (CAPEX) for operational expense (OPEX), benefit from massive economies of scale, stop guessing capacity, increase speed and agility, stop spending mony running and maintaining data centers, go global in minutes
-3. Hybrid Cloud: keep some servers on premises and extend some capabilities to the cloud; control over sensitive assets in your sensitive assets in your private infrastructure; flexibility and cost-effectiveness of the public cloud.
+* Private Cloud: cloud services used by a single organization, not exposed to the public; complete control; security for sensitive applications; meet specific business needs.
+* Public Cloud: cloud resources owned and operated by a third-party cloud service provider delivered over the internet; six advantages of cloud computing: reduce trade capital expense (CAPEX) for operational expense (OPEX), benefit from massive economies of scale, stop guessing capacity, increase speed and agility, stop spending mony running and maintaining data centers, go global in minutes
+* Hybrid Cloud: keep some servers on premises and extend some capabilities to the cloud; control over sensitive assets in your sensitive assets in your private infrastructure; flexibility and cost-effectiveness of the public cloud.
+
+### Types of Cloud Computing
+
+* Infrastructure as a Service (IaaS): 
 
 ## AWS Cloud Overview
 
