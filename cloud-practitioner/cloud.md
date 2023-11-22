@@ -28,4 +28,5 @@ Each region has many availability zones (usually 3, min is 2, max is 6). Take Sy
 
 ## Tour of the AWS Console
 
-AWS has global services: IAM, Route53, CloudFront. WAF... Most AWS services are region-scoped: EC2, S3, RDS, DynamoDB, Redshift, Elasticache, CloudWatch, CloudFormation, ...
+* AWS has global services: IAM, Route53, CloudFront. WAF
+* Most AWS services are region-scoped: EC2, S3, RDS, DynamoDB, Redshift, Elasticache, CloudWatch, CloudFormation, ...
