@@ -14,7 +14,9 @@ Cloud computing is the **on-demand** delivery of computer power, database storag
 
 ### Types of Cloud Computing
 
-* Infrastructure as a Service (IaaS): 
+* Infrastructure as a Service (IaaS): a IaaS provides a infrastructure like networking, computers, data storage space without the need to buy and operate infrastructure by yourself
+* Platform as a Service (PaaS): a PaaS provides a platform to deploy and manage your applications directly without the need to manage the underlying infrastructure
+* Software as a Service (SaaS): a SaaS provides a completed software without the need to develop the software with the same functionality
 
 ## AWS Cloud Overview
 
